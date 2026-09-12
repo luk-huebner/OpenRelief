@@ -1,0 +1,3 @@
+fix claude hooks if they are not working. then commit code. and the data and artifacts shold be pushed ti hugginsface. I am looged in. I have created new repo. https://huggingface.co/datasets/Alaeddinnn/OpenRelief
+
+check everaything out then report otme your plan before doing anything
