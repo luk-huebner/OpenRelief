@@ -1,0 +1,45 @@
+then check if mdoel fintuned code section is ready or we need to work on it as well. we need to make everything eready before we gernate the final annotated dataset
+
+---
+
+how long still?
+
+---
+
+kill it
+
+---
+
+<task-notification>
+<task-id>b2enpeoyj</task-id>
+<tool-use-id>toolu_01XYQC2Fo5uAUqr4JtACZk1X</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-aabd-repos-OpenRelief/f717cfa8-5975-46ae-88ca-0714ae664e7d/tasks/b2enpeoyj.output</output-file>
+<status>failed</status>
+<summary>Background command "Real CPU forward+backward smoke test of OpenTSLMSP on actual dataset sample" failed with exit code 144</summary>
+</task-notification>
+
+---
+
+<task-notification>
+<task-id>bc9fi91oh</task-id>
+<tool-use-id>REDACTED</tool-use-id>
+<output-file>/private/tmp/claude-501/-Users-aabd-repos-OpenRelief/f717cfa8-5975-46ae-88ca-0714ae664e7d/tasks/bc9fi91oh.output</output-file>
+<status>completed</status>
+<summary>Background command "Wait for smoke test process to finish, then print its log" completed (exit code 0)</summary>
+</task-notification>
+
+---
+
+annotate 20 samples, and make sure we annotaet sampels for all dataset splits. then we weill push them to hugginface and if needed udpate readme. then I will clone this repo and hugginface dataset in another amchine with gpu to test train
+
+---
+
+stop
+
+---
+
+we are using 6 month data as input?
+
+---
+
+and does winode mean here?
