@@ -6,9 +6,29 @@
   "checkpoints_count": 2,
   "files_touched": [
     "README.md",
+    "docs/DATASET_CARD.md",
     "docs/HACKATHON-READINESS.md",
+    "docs/PLAN.md",
     "docs/STATUS.md",
+    "docs/SUBMISSION.md",
+    "docs/examples/annotation-atlas/README.md",
+    "docs/examples/annotation-atlas/beni.png",
+    "docs/examples/annotation-atlas/examples.json",
+    "docs/examples/annotation-atlas/harad.png",
+    "docs/examples/annotation-atlas/index.html",
+    "docs/examples/annotation-atlas/manifest.json",
+    "docs/examples/annotation-atlas/oubritenga.png",
+    "docs/examples/annotation-atlas/pipeline.svg",
+    "docs/examples/fonts/DMSans-OFL.txt",
+    "docs/examples/fonts/DMSans-Regular.ttf",
+    "docs/examples/fonts/DMSans.ttf",
+    "docs/examples/fonts/Manrope-Medium.ttf",
+    "docs/examples/fonts/Manrope-OFL.txt",
+    "docs/examples/fonts/Manrope.ttf",
+    "docs/examples/fonts/README.md",
     "reports/hackathon-readiness-audit.json",
+    "scripts/annotation_showcase.html",
+    "scripts/build_annotation_showcase.py",
     "scripts/package_handoff.py"
   ],
   "sessions": [
@@ -17,14 +37,14 @@
       "transcript": "/0/full.jsonl",
       "compact_transcript": "/0/transcript.jsonl",
       "content_hash": "/0/content_hash.txt",
-      "prompt": "/0/prompt.txt"
+      "prompt": ""
     }
   ],
   "token_usage": {
-    "input_tokens": 165993,
+    "input_tokens": 3328,
     "cache_creation_tokens": 0,
-    "cache_read_tokens": 5832832,
-    "output_tokens": 41285,
-    "api_call_count": 62
+    "cache_read_tokens": 344704,
+    "output_tokens": 600,
+    "api_call_count": 2
   }
 }
