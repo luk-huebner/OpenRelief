@@ -1,0 +1,11 @@
+check currrent repo and understand it
+
+---
+
+first, pull the latest repo. chagnes from remote. then look at the slides that I put in th refrecens dir: Aionic_Temporal_AI_Hackathon (2).pdf. then do a analyisis of what has been done and what still neeeds to be done to maximize chance of winning the ahcathon and doing all thigns the cahllegen want us to do
+
+---
+
+> How much time remains until your demo/submission, and where can I read the latest Nebius run outputs (run.json, predictions, metrics, and checkpoint)? The pulled commit reports GPU results, but those artifacts are not in this checkout.
+
+4 hours. logs are somwhere else, I can fetch them if needed. what you need exaclty?

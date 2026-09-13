@@ -1,0 +1,108 @@
+{
+  "cli_version": "0.10.6",
+  "checkpoint_id": "01M2CNXQMHVSM6BSAV7EP7B1NE",
+  "session_id": "01a09933-e0a9-7cd0-94a3-ec53d783a8e9",
+  "strategy": "manual-commit",
+  "created_at": "2026-09-13T06:05:27.832709Z",
+  "branch": "main",
+  "checkpoints_count": 2,
+  "save_step_count": 2,
+  "files_touched": [
+    "scripts/train_gpu.sh",
+    "src/open_relief/adapter.py",
+    "src/open_relief/annotation.py",
+    "src/open_relief/gpu.py",
+    "tests/test_temporal.py"
+  ],
+  "agent": "Codex",
+  "model": "gpt-6-astra",
+  "turn_id": "5999759e9730",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 160040,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 5495808,
+    "output_tokens": 40565,
+    "api_call_count": 60
+  },
+  "session_metrics": {
+    "turn_count": 2
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-09-13T06:05:27.730634Z",
+    "agent_lines": 0,
+    "agent_removed": 0,
+    "human_added": 13,
+    "human_modified": 38,
+    "human_removed": 0,
+    "total_committed": 13,
+    "total_lines_changed": 51,
+    "agent_percentage": 0,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 1,
+      "user_lines_added": 133,
+      "user_lines_removed": 15,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0,
+      "user_added_per_file": {
+        ".claude/scheduled_tasks.lock": 1,
+        "README.md": 9,
+        "docs/STATUS.md": 7,
+        "scripts/train_gpu.sh": 1,
+        "src/open_relief/adapter.py": 5,
+        "src/open_relief/annotation.py": 62,
+        "src/open_relief/gpu.py": 13,
+        "tests/test_temporal.py": 35
+      },
+      "user_removed_per_file": {
+        "docs/STATUS.md": 1,
+        "scripts/train_gpu.sh": 1,
+        "src/open_relief/adapter.py": 2,
+        "src/open_relief/annotation.py": 4,
+        "src/open_relief/gpu.py": 3,
+        "tests/test_temporal.py": 4
+      }
+    },
+    {
+      "checkpoint_number": 2,
+      "user_lines_added": 54,
+      "user_lines_removed": 26,
+      "agent_lines_added": 132,
+      "agent_lines_removed": 15,
+      "user_added_per_file": {
+        ".claude/scheduled_tasks.lock": 1,
+        "README.md": 2,
+        "src/open_relief/gpu.py": 51
+      },
+      "user_removed_per_file": {
+        "README.md": 2,
+        "src/open_relief/gpu.py": 24
+      }
+    },
+    {
+      "checkpoint_number": 3,
+      "user_lines_added": 3530,
+      "user_lines_removed": 23,
+      "agent_lines_added": 3085,
+      "agent_lines_removed": 12,
+      "user_added_per_file": {
+        ".claude/scheduled_tasks.lock": 1,
+        "README.md": 88,
+        "docs/DATASET_CARD.md": 88,
+        "docs/SUBMISSION.md": 63,
+        "docs/examples/annotation-atlas/README.md": 179,
+        "docs/examples/annotation-atlas/examples.json": 2738,
+        "docs/examples/annotation-atlas/index.html": 91,
+        "docs/examples/annotation-atlas/manifest.json": 19,
+        "scripts/annotation_showcase.html": 25,
+        "scripts/build_annotation_showcase.py": 238
+      },
+      "user_removed_per_file": {
+        "README.md": 23
+      }
+    }
+  ]
+}
